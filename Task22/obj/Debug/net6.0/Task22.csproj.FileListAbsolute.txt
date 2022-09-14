@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/bin/Debug/net6.0/Task22
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/bin/Debug/net6.0/Task22.deps.json
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/bin/Debug/net6.0/Task22.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/bin/Debug/net6.0/Task22.dll
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/bin/Debug/net6.0/Task22.pdb
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.dll
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/refint/Task22.dll
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.pdb
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/Task22.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task22/obj/Debug/net6.0/ref/Task22.dll
