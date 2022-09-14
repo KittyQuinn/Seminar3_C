@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/bin/Debug/net6.0/Task18
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/bin/Debug/net6.0/Task18.deps.json
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/bin/Debug/net6.0/Task18.runtimeconfig.json
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/bin/Debug/net6.0/Task18.dll
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/bin/Debug/net6.0/Task18.pdb
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.AssemblyInfo.cs
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.dll
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/refint/Task18.dll
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.pdb
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/Task18.genruntimeconfig.cache
+/Users/kataryzova/Desktop/Seminar3 C#/Task18/obj/Debug/net6.0/ref/Task18.dll
